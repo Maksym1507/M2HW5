@@ -1,0 +1,100 @@
+﻿26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Info: Start method: CallInfo
+26.09.2022 16:52:41: Warning: Action got this custom Exception: Skipped logic in method
+26.09.2022 16:52:41: Error: Action failed by reason: I broke logic
+26.09.2022 16:52:41: Info: Start method: CallInfo
