@@ -3,7 +3,7 @@ using M2HW5.Configs;
 
 namespace M2HW5
 {
-    class Program
+    internal class Program
     {
         private static void Main()
         {
